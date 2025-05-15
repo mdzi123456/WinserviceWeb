@@ -1,0 +1,3 @@
+const getC = () => {
+  return true;
+};
