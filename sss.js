@@ -1,3 +1,3 @@
-const getC = () => {
+const getC1 = () => {
   return true;
 };
