@@ -1,6 +1,6 @@
 import React from "react";
 
-const kk3ffaaaaff = () => {
+const kk3ffaaaaff1 = () => {
   return <div>kk</div>;
 };
 
