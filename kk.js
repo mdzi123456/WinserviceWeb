@@ -1,6 +1,6 @@
 import React from "react";
 
-const kk = () => {
+const kk1 = () => {
   return <div>kk</div>;
 };
 
